@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader", "LogReader\LogReader.csproj", "{1431EC18-3EC5-48AD-A647-34ED9FE9991A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader.Tests", "LogReader.Tests\LogReader.Tests.csproj", "{010C4DD5-BEEA-4DF2-AA25-6D142693D92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1431EC18-3EC5-48AD-A647-34ED9FE9991A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1431EC18-3EC5-48AD-A647-34ED9FE9991A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1431EC18-3EC5-48AD-A647-34ED9FE9991A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1431EC18-3EC5-48AD-A647-34ED9FE9991A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010C4DD5-BEEA-4DF2-AA25-6D142693D92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010C4DD5-BEEA-4DF2-AA25-6D142693D92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010C4DD5-BEEA-4DF2-AA25-6D142693D92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010C4DD5-BEEA-4DF2-AA25-6D142693D92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
